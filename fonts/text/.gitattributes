@@ -1,0 +1,4 @@
+*.ttf binary
+*.txt -text
+*.json text eol=lf
+*.md text eol=lf

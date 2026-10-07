@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "checkedDate": "2026-10-07",
+  "excludedFamilies": [
+    {
+      "id": "satoshi",
+      "name": "Satoshi",
+      "status": "requires-separate-distribution-rights",
+      "license": "ITF Free Font License",
+      "licenseVersion": "Version 2.0 - 17 Aug 2026",
+      "licenseUrl": "https://www.fontshare.com/licenses/itf-ffl",
+      "officialTextSourceUrl": "https://www.fontshare.com/js/main.d962d2d8.js",
+      "officialMetadataSourceUrl": "https://api.fontshare.com/v2/fonts",
+      "officialMetadataLicenseType": "itf_ffl",
+      "reason": "Section 02 restricts repository and font-library redistribution, serving font files to third parties, and third-party selectable-font use. The licensee's own application embedding permission does not authorize this public font distribution model.",
+      "fontFilesAcquired": false
+    },
+    {
+      "id": "aeonik",
+      "name": "Aeonik",
+      "status": "requires-separate-distribution-rights",
+      "reason": "No suitable permission for public redistribution and application embedding has been supplied for this asset catalog.",
+      "fontFilesAcquired": false
+    },
+    {
+      "id": "helvetica",
+      "name": "Helvetica",
+      "status": "requires-separate-distribution-rights",
+      "reason": "No suitable permission for public redistribution and application embedding has been supplied for this asset catalog.",
+      "fontFilesAcquired": false
+    }
+  ]
+}
