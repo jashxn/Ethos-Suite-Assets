@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 2,
+  "assets": [
+    {
+      "id": "6049668989",
+      "key": "Dropshadow",
+      "file": "6049668989.png",
+      "bytes": 9592,
+      "checksum": "63318a6c",
+      "sha256": "0d4a156dbba5f4153dd17d25cef73362e48e011c3107a58231b1fc1ed502b946",
+      "size": [
+        256,
+        256
+      ],
+      "source": "assets/custom/Dropshadow.png"
+    },
+    {
+      "id": "9313765853",
+      "key": "Shadow",
+      "file": "9313765853.png",
+      "bytes": 2628,
+      "checksum": "7227e80e",
+      "sha256": "d4e0e9ab21ce1243937a3e71ab6d1de23905c4b697d3a010a9b050ab3d8ce5e4",
+      "size": [
+        90,
+        90
+      ],
+      "source": "assets/custom/Shadow.png"
+    },
+    {
+      "id": "72171626148979",
+      "key": "ColorPicker",
+      "file": "72171626148979.png",
+      "bytes": 63038,
+      "checksum": "1900460a",
+      "sha256": "4675619a2349bad349e3cb0fd64c098a003d033759f37e1fdb1d72e62c265435",
+      "size": [
+        420,
+        420
+      ],
+      "source": "assets/legacy/ColorPicker.png"
+    },
+    {
+      "id": "81624121716376",
+      "key": "ButtonIcon",
+      "file": "81624121716376.png",
+      "bytes": 4357,
+      "checksum": "30a61169",
+      "sha256": "c2368e3880ebf423416ed5da254c6243cf274d05408b7f2cb9bfa41233ef335a",
+      "size": [
+        75,
+        75
+      ],
+      "source": "assets/legacy/ButtonIcon.png"
+    },
+    {
+      "id": "81857207543459",
+      "key": "Cursor",
+      "file": "81857207543459.png",
+      "bytes": 2149,
+      "checksum": "1bc0cf8c",
+      "sha256": "97ab2abfc98ca5460d4ad3917ed21e27ae5135dbaf1f94d5ebd239d59011f0c5",
+      "size": [
+        75,
+        75
+      ],
+      "source": "assets/legacy/Cursor.png"
+    },
+    {
+      "id": "113005153483202",
+      "key": "NavbarUnderglow",
+      "file": "113005153483202.png",
+      "bytes": 4352,
+      "checksum": "2e9b32af",
+      "sha256": "b9cecd737a44ef97f19a3f6a5a8a8d167c92b28724b937df20cf25f1678a9dd8",
+      "size": [
+        150,
+        105
+      ],
+      "source": "assets/dashboard/NavbarUnderglow.png"
+    },
+    {
+      "id": "115758629709887",
+      "key": "Drag",
+      "file": "115758629709887.png",
+      "bytes": 900,
+      "checksum": "bd987cda",
+      "sha256": "370dc517021bd227320a50030335f5b03fc99b127b072825e32c50770544e3e6",
+      "size": [
+        30,
+        30
+      ],
+      "source": "assets/legacy/Drag.png"
+    },
+    {
+      "id": "116215943524454",
+      "key": "ScrollMiddle",
+      "file": "116215943524454.png",
+      "bytes": 297,
+      "checksum": "e0365365",
+      "sha256": "23998fd167147dc7c94254f919085a4f5363887e0042c51f082caf4535083c1b",
+      "size": [
+        150,
+        150
+      ],
+      "source": "assets/legacy/ScrollMiddle.png"
+    },
+    {
+      "id": "117616164364352",
+      "key": "ScrollBottom",
+      "file": "117616164364352.png",
+      "bytes": 3321,
+      "checksum": "e69a020c",
+      "sha256": "b56dc3214b5191f037305a1a0a3e48d7e246a83b136962ea166205783b3506f2",
+      "size": [
+        150,
+        150
+      ],
+      "source": "assets/legacy/ScrollBottom.png"
+    },
+    {
+      "id": "118471988295372",
+      "key": "ScrollTop",
+      "file": "118471988295372.png",
+      "bytes": 3378,
+      "checksum": "3fef4055",
+      "sha256": "7a129aa24621cbc40114d01092ca5db745d5dc8853ae92e9c04b6848bd9f082e",
+      "size": [
+        150,
+        150
+      ],
+      "source": "assets/legacy/ScrollTop.png"
+    },
+    {
+      "id": "121899300432067",
+      "key": "Glow146",
+      "file": "121899300432067.png",
+      "bytes": 6054,
+      "checksum": "a5c2b151",
+      "sha256": "7802918dd769433317e915b237af4f39f6217c7a9eac591a3890f47a994e981b",
+      "size": [
+        150,
+        150
+      ],
+      "source": "assets/dashboard/Glow146.png"
+    },
+    {
+      "id": "122288503920903",
+      "key": "Glow198",
+      "file": "122288503920903.png",
+      "bytes": 15812,
+      "checksum": "edd43037",
+      "sha256": "3f1630ab98f9042d7ae123a70094b223642ff72f649179ba172b174dfb6eed16",
+      "size": [
+        250,
+        250
+      ],
+      "source": "assets/dashboard/Glow198.png"
+    },
+    {
+      "id": "126065347737085",
+      "key": "Glow70",
+      "file": "126065347737085.png",
+      "bytes": 2209,
+      "checksum": "e6a1f22e",
+      "sha256": "6a134cceb03d4545968ee528280b1ed56e89b40cb43466358b8899d7c68c6b81",
+      "size": [
+        75,
+        75
+      ],
+      "source": "assets/dashboard/Glow70.png"
+    }
+  ]
+}
