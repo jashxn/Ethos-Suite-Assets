@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "project": "lucide-roblox-direct",
+  "repository": "https://github.com/notpoiu/lucide-roblox-direct",
+  "revision": "04f2bbae632268b1c165b4e477340b1566606958",
+  "assetRevision": "d64d9e669ba2b9aad9491dbbf6a8443b3ffd173d",
+  "referenceProject": "https://github.com/deividcomsono/Obsidian",
+  "referenceRevision": "2bf43254266f94492fe1f0fa12d181bb55e98f25",
+  "font": {
+    "path": "lucide.ttf",
+    "bytes": 903264,
+    "sha256": "c75eae3390ccda7ae56a4b57354a6091170f523daf63fc458bbf0219c824f9e1",
+    "adler32": "bc832231",
+    "icons": 1866,
+    "textEncoding": "canonical-icon-name-ligature"
+  },
+  "files": {
+    "lucide.ttf": {
+      "sha256": "c75eae3390ccda7ae56a4b57354a6091170f523daf63fc458bbf0219c824f9e1",
+      "bytes": 903264
+    },
+    "codepoints.json": {
+      "sha256": "845bdfa6dc183e7284b60f3a2c0144cce5eb0c611d75e7283097481134bf4643",
+      "bytes": 49273
+    },
+    "LICENSE": {
+      "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
+      "bytes": 3208
+    },
+    "LOADER-LICENSE": {
+      "sha256": "0ce26c4ef91c14a05c62e754dae806f8391ac81109436e6b7c3aec87ac82d5fb",
+      "bytes": 1070
+    }
+  },
+  "licenses": {
+    "fontAndIconData": "LICENSE",
+    "upstreamLoader": "LOADER-LICENSE"
+  }
+}
